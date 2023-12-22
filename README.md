@@ -15,4 +15,8 @@ $ cd -antiuserbot
 This is project for terminal emulate, send message using session code with terminal emulate
 developer: https://github.com/xiroshigo
 
+![Picsart_23-12-22_19-17-16-070](https://github.com/satomoru/-antiuserbot/assets/154405697/10790825-2c18-4d2d-a782-fd460db6620b)
+
+This is project for find victim phone number using string session, used python telethon AddContactRequest
+
 join my telegram: https://t.me/py_024
