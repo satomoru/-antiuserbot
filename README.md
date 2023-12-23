@@ -19,4 +19,10 @@ developer: https://github.com/xiroshigo
 
 This is project for find victim phone number using string session, used python telethon AddContactRequest
 
+![Picsart_23-12-23_23-27-12-859](https://github.com/satomoru/-antiuserbot/assets/154405697/8877008c-008f-4bc1-adbb-dfe29ca4ec6c)
+
+This project for scanning victim full chats , using string session
+
+user: run project and paste session , and send .scan module in victim chat !
+
 join my telegram: https://t.me/py_024
